@@ -47,7 +47,7 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lttoan327ldh-dot&show_icons=true&theme=tokyonight"
     height="180"
   />
 </p>
