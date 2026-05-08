@@ -22,12 +22,12 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 
 ---
 
-## 🛠 Technical Skills (Beginner)
-- Programming Languages: C, JavaScript  
-- Web Technologies: HTML, CSS  
-- Office Tools: Word, PowerPoint, Excel  
-- AI Tools: Prompt design, AI-assisted learning & development  
-- Tools & Platforms: Git, GitHub, VS Code  
+## 🛠 Technical Skills
+- **Programming Languages:** C, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Databases:** MySQL, Database Design (ERM/ERD), SQL Queries
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **Soft Skills & AI:** Prompt engineering, AI-assisted development, Team collaboration
 
 ---
 
@@ -63,7 +63,7 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 ## 📈 Most Used Languages
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lttoan327ldh-dot&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lttoan327ldh-dot&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
