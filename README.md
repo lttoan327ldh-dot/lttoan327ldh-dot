@@ -53,7 +53,7 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 </p>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tvmptit0511-ui&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=lttoan327ldh-dot&theme=tokyonight"
     height="180"
   />
 </p>
@@ -63,7 +63,7 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 ## 📈 Most Used Languages
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lttoan327ldh-dot&layout=compact&theme=tokyonight"
     height="180"
   />
 </p>
