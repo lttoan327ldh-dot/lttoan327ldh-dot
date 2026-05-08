@@ -43,3 +43,30 @@ I use GitHub to document my learning journey, store practice exercises, and grad
 ## 📫 Contact
 - 📧 Email: lttoan327ldh@gmail.com  
 - 📱 Phone / Zalo: 0347 372 461
+
+## 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tvmptit0511-ui&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tvmptit0511-ui&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tvmptit0511-ui&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+
+
